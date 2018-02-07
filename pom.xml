@@ -24,10 +24,8 @@
         <maven.compiler.target>1.8</maven.compiler.target>
         <maven.compiler.source>1.8</maven.compiler.source>
 
-        <!-- Cache Infinispan (jdg 7 beta) -->
-        <!-- need Red Hat Early Access Maven Repository -->
-        <!-- valid for client jdg 7 module on EAP 6 && server jdg 7 server -->
-        <version.org.infinispan>8.3.0.ER4-redhat-1</version.org.infinispan>
+        <!-- Cache Infinispan (JDG 7) -->
+        <version.org.infinispan>8.4.1.Final-redhat-2</version.org.infinispan>
 
         <!-- SLFJ -->
         <version.org.slf4j>1.7.2.redhat-3</version.org.slf4j>
